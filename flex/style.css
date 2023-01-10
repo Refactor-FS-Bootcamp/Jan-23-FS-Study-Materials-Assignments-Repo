@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+.box{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+}
+.box1 {background: red;}
+.box2 {background: green;}
+.box3 {background: yellow;}
+.box4 {background: brown;}
+.box5 {background: orange;}
+.box6 {background: purple;}
+.box7 {background: black;}
+.box8 {background: magenta;}
+.box9 {background: silver;}
+.box10 {background: teal;}
+
+
+
+
+.container{
+    display: flex;
+    
+    
+}
+
+.box1{
+    flex-basis: 400px;
+    flex-grow: 2;
+    flex-shrink: 3;
+}
+
+.box2{
+    flex-basis: 300px;
+    flex-grow: 1;
+    flex-shrink: 2;
+}
+
+
+
