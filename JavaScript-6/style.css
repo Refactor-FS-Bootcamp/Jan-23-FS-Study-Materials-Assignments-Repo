@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+
+#demo{
+ background-color:red;
+}
+
+.demo1{
+    background-color: antiquewhite;
+    font-family: cursive;
+
+
+
+
+
+
+
+}
+
+.active{
+  background-color: rgb(152, 152, 193);
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
