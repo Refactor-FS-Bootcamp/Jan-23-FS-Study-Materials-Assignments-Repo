@@ -1,0 +1,15 @@
+body{
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+.error{
+    display: none;
+    /* display: inline-block; */
+}
+
+.activeError{
+  color: rgba(247, 6, 6, 0.96);
+  display: inline;
+  
+}
