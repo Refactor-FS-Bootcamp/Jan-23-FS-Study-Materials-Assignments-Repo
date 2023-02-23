@@ -1,0 +1,7 @@
+table, th {
+    border: 1px solid black;
+}
+
+.tbody-style{
+    background-color: lightblue;
+}
