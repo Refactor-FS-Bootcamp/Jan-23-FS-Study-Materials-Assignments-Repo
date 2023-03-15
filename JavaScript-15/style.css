@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+   text-align: center;
+}
+
+p{
+    font-size: 40px;
+    color: blue;
+}
