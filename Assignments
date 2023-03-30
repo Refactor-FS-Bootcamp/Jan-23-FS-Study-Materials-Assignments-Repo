@@ -28,3 +28,9 @@ Create a Whatsapp Clone with Firebase by referring this YouTube video - https://
 Assignment 7
 ------
 Create Post App by referring this - https://drive.google.com/file/d/1MsJpcKbvg_yvxQtpbmpqOtZSDD-gt71F/view?usp=sharing
+
+Assignment 8
+------
+Create the React Chat app with socket.io and Express. 
+Instructions in this document- https://github.com/exact-space/react-assignments/blob/main/chat-app/reactjs_chat_assignment.md#react-chat-app
+Take the backend code of socket.io from the Class
