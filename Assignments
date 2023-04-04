@@ -34,3 +34,7 @@ Assignment 8
 Create the React Chat app with socket.io and Express. 
 Instructions in this document- https://github.com/exact-space/react-assignments/blob/main/chat-app/reactjs_chat_assignment.md#react-chat-app
 Take the backend code of socket.io from the Class
+
+Assignment 9
+------
+Create a CMS project with JWT authentication. Details of project in this link - https://docs.google.com/document/d/1yjBB4tcHo5G4AsxfvLgnNpNA7AHH6U02/edit?usp=sharing&ouid=106020900133971725356&rtpof=true&sd=true
