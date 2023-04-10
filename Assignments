@@ -38,3 +38,7 @@ Take the backend code of socket.io from the Class
 Assignment 9
 ------
 Create a CMS project with JWT authentication. Details of project in this link - https://docs.google.com/document/d/1yjBB4tcHo5G4AsxfvLgnNpNA7AHH6U02/edit?usp=sharing&ouid=106020900133971725356&rtpof=true&sd=true
+
+Assignment 10
+------
+Deploy the task manager project in Amazon EC2 and send the public url
